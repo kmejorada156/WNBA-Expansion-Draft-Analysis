@@ -1,0 +1,100 @@
+"draft_year","expansion_team","pick_number","player_name","former_team","age_at_draft","minutes_before","minutes_after","ws_before","ws_after","ws_change","played_after","improved","age_group","primary_position","era","rank_best","rank_worst","ws_two_before","year_before_draft"
+1998,"Detroit Shock",1,"Rhonda Blades","New York Liberty",25.0,290,340,0.1,-0.6,-0.7,1,0,"25-29","Guard","Early (1998-2008)",49,21,NULL,NULL
+1998,"Washington Mystics",2,"Heidi Burge","Los Angeles Sparks",26.0,282,501,0.7,-0.4,-1.1,1,0,"25-29","Forward","Early (1998-2008)",55,16,NULL,NULL
+1998,"Detroit Shock",3,"Tajama Abraham","Sacramento Monarchs",22.0,422,44,-0.8,0,0.8,1,1,"Under 25","Center","Early (1998-2008)",13,55,NULL,NULL
+1998,"Washington Mystics",4,"Penny Moore","Charlotte Sting",29.0,539,756,-0.3,-0.8,-0.5,1,0,"25-29","Forward","Early (1998-2008)",44,27,NULL,NULL
+1998,"Detroit Shock",5,"Tara Williams","Phoenix Mercury",23.0,84,NULL,0.2,NULL,NULL,0,NULL,"Under 25","Guard","Early (1998-2008)",72,72,NULL,NULL
+1998,"Washington Mystics",6,"Deborah Carter","Utah Starzz",26.0,286,434,0,-1.3,-1.3,1,0,"25-29","Guard","Early (1998-2008)",59,12,NULL,NULL
+1998,"Detroit Shock",7,"Lynette Woodard","Cleveland Rockers",38.0,712,383,1.1,0.5,-0.6,1,0,"30+","Guard","Early (1998-2008)",46,24,NULL,NULL
+1998,"Washington Mystics",8,"Tammy Jackson","Houston Comets",35.0,545,174,0.9,0.1,-0.8,1,0,"30+","Forward","Early (1998-2008)",52,19,NULL,NULL
+1999,"Minnesota Lynx",1,"Brandy Reed","Phoenix Mercury",22.0,254,757,1.4,2.7,1.3,1,1,"Under 25","Forward","Early (1998-2008)",10,62,NULL,NULL
+1999,"Orlando Miracle",2,"Andrea Congreaves","Charlotte Sting",28.0,372,812,1.5,1.9,0.4,1,1,"25-29","Forward","Early (1998-2008)",21,49,3.1,"Down year"
+1999,"Minnesota Lynx",3,"Kim Williams","Utah Starzz",24.0,543,NULL,-0.1,NULL,NULL,0,NULL,"Under 25","Guard","Early (1998-2008)",72,72,0.4,NULL
+1999,"Orlando Miracle",4,"Kisha Ford","New York Liberty",24.0,471,45,1.6,0,-1.6,1,0,"Under 25","Guard","Early (1998-2008)",65,6,0.5,"Up year"
+1999,"Minnesota Lynx",5,"Octavia Blue","Los Angeles Sparks",23.0,331,NULL,-0.2,NULL,NULL,0,NULL,"Under 25","Forward","Early (1998-2008)",72,72,NULL,NULL
+1999,"Orlando Miracle",6,"Yolanda Moore","Houston Comets",24.0,533,114,2,-0.2,-2.2,1,0,"Under 25","Forward","Early (1998-2008)",71,1,-0.2,"Up year"
+1999,"Minnesota Lynx",7,"Adia Barnes","Sacramento Monarchs",22.0,619,91,0,0,0,1,0,"Under 25","Forward","Early (1998-2008)",34,36,NULL,NULL
+1999,"Orlando Miracle",8,"Adrienne Johnson","Cleveland Rockers",25.0,330,224,0.7,0.1,-0.6,1,0,"25-29","Guard","Early (1998-2008)",46,24,-0.5,"Up year"
+2000,"Indiana Fever",1,"Gordana Grubin","Los Angeles Sparks",27.0,708,720,2.3,0.2,-2.1,1,0,"25-29","Guard","Early (1998-2008)",70,2,NULL,NULL
+2000,"Seattle Storm",2,"Edna Campbell","Phoenix Mercury",31.0,750,510,0.7,0,-0.7,1,0,"30+","Guard","Early (1998-2008)",49,21,NULL,NULL
+2000,"Miami Sol",3,"Kate Starbird","Sacramento Monarchs",24.0,215,340,0,0.3,0.3,1,1,"Under 25","Forward","Early (1998-2008)",24,47,NULL,NULL
+2000,"Portland Fire",4,"Alisa Burras","Cleveland Rockers",24.0,563,314,1.6,0.8,-0.8,1,0,"Under 25","Center","Early (1998-2008)",52,19,NULL,NULL
+2000,"Portland Fire",5,"Sophia Witherspoon","New York Liberty",30.0,581,1061,1.5,3,1.5,1,1,"30+","Guard","Early (1998-2008)",9,63,3.1,"Down year"
+2000,"Miami Sol",6,"Sandy Brondello","Charlotte Sting",31.0,1002,NULL,2.6,NULL,NULL,0,NULL,"30+","Guard","Early (1998-2008)",72,72,4.2,NULL
+2000,"Seattle Storm",7,"Sonja Henning","Houston Comets",30.0,798,980,2.4,0.8,-1.6,1,0,"30+","Guard","Early (1998-2008)",65,6,NULL,NULL
+2000,"Indiana Fever",8,"Stephanie White","Detroit Shock",22.0,563,635,1.1,1.9,0.8,1,1,"Under 25","Guard","Early (1998-2008)",13,55,NULL,NULL
+2000,"Indiana Fever",9,"Nyree Roberts","Washington Mystics",24.0,79,NULL,-0.1,NULL,NULL,0,NULL,"Under 25","Center","Early (1998-2008)",72,72,0.3,NULL
+2000,"Seattle Storm",10,"Angela Aycock","Minnesota Lynx",27.0,30,13,-0.2,0,0.2,1,1,"25-29","Guard","Early (1998-2008)",26,43,NULL,NULL
+2000,"Miami Sol",11,"Debbie Black","Utah Starzz",33.0,1014,820,1.1,1.9,0.8,1,1,"30+","Guard","Early (1998-2008)",13,55,NULL,NULL
+2000,"Portland Fire",12,"Tari Phillips","Orlando Miracle",31.0,335,978,-0.6,3.8,4.4,1,1,"30+","Forward","Early (1998-2008)",2,70,NULL,NULL
+2000,"Portland Fire",13,"Coquese Washington","New York Liberty",29.0,77,236,-0.2,0.6,0.8,1,1,"25-29","Guard","Early (1998-2008)",13,55,-0.1,"Steady"
+2000,"Miami Sol",14,"Sharon Manning","Charlotte Sting",31.0,521,403,1.4,0.7,-0.7,1,0,"30+","Forward","Early (1998-2008)",49,21,2,"Down year"
+2000,"Seattle Storm",15,"Nina Bjedov","Los Angeles Sparks",27.0,431,NULL,1,NULL,NULL,0,NULL,"25-29","Center","Early (1998-2008)",72,72,NULL,NULL
+2000,"Indiana Fever",16,"Rita Williams","Washington Mystics",24.0,312,1014,1.3,3.2,1.9,1,1,"Under 25","Guard","Early (1998-2008)",6,66,-0.9,"Up year"
+2000,"Indiana Fever",17,"Kara Wolters","Houston Comets",24.0,41,793,0.2,2.7,2.5,1,1,"Under 25","Center","Early (1998-2008)",4,68,NULL,NULL
+2000,"Seattle Storm",18,"Toni Foster","Phoenix Mercury",28.0,42,NULL,0.3,NULL,NULL,0,NULL,"25-29","Forward","Early (1998-2008)",72,72,1.1,NULL
+2000,"Miami Sol",19,"Lesley Brown","Detroit Shock",22.0,43,NULL,0,NULL,NULL,0,NULL,"Under 25","Forward","Early (1998-2008)",72,72,NULL,NULL
+2000,"Portland Fire",20,"Molly Goodenbour","Sacramento Monarchs",28.0,NULL,NULL,NULL,NULL,NULL,0,NULL,"25-29","Unknown","Early (1998-2008)",72,72,NULL,NULL
+2000,"Portland Fire",21,"Jamila Wideman","Cleveland Rockers",24.0,401,35,-0.9,-0.2,0.7,1,1,"Under 25","Guard","Early (1998-2008)",18,53,-0.2,"Down year"
+2000,"Miami Sol",22,"Yolanda Moore","Orlando Miracle",25.0,114,NULL,-0.2,NULL,NULL,0,NULL,"25-29","Forward","Early (1998-2008)",72,72,2,NULL
+2000,"Seattle Storm",23,"Charmin Smith","Minnesota Lynx",25.0,56,516,-0.1,-0.3,-0.2,1,0,"25-29","Guard","Early (1998-2008)",38,32,NULL,NULL
+2000,"Indiana Fever",24,"Chantel Tremitiere","Utah Starzz",30.0,191,318,-0.3,-0.2,0.1,1,1,"30+","Guard","Early (1998-2008)",30,39,0.8,"Down year"
+2006,"Chicago Sky",1,"Jia Perkins","Charlotte Sting",24.0,464,839,0.3,0.1,-0.2,1,0,"Under 25","Guard","Early (1998-2008)",38,32,NULL,NULL
+2006,"Chicago Sky",2,"Brooke Wyckoff","Connecticut Sun",26.0,596,343,1.4,-0.3,-1.7,1,0,"25-29","Forward","Early (1998-2008)",67,3,NULL,NULL
+2006,"Chicago Sky",3,"Elaine Powell","Detroit Shock",30.0,671,370,1.3,-0.1,-1.4,1,0,"30+","Guard","Early (1998-2008)",61,11,NULL,NULL
+2006,"Chicago Sky",4,"Kiesha Brown","Houston Comets",27.0,32,58,-0.1,0.1,0.2,1,1,"25-29","Guard","Early (1998-2008)",26,43,NULL,NULL
+2006,"Chicago Sky",5,"Deanna Jackson","Indiana Fever",26.0,472,330,1.3,0,-1.3,1,0,"25-29","Forward","Early (1998-2008)",59,12,NULL,NULL
+2006,"Chicago Sky",6,"Laura Macchi","Los Angeles Sparks",26.0,148,NULL,0.3,NULL,NULL,0,NULL,"25-29","Forward","Early (1998-2008)",72,72,NULL,NULL
+2006,"Chicago Sky",7,"Stacey Lovelace","Minnesota Lynx",31.0,594,628,1.9,0.4,-1.5,1,0,"30+","Center","Early (1998-2008)",62,8,NULL,NULL
+2006,"Chicago Sky",8,"DeTrina White","New York Liberty",26.0,90,NULL,0.3,NULL,NULL,0,NULL,"25-29","Forward","Early (1998-2008)",72,72,NULL,NULL
+2006,"Chicago Sky",9,"Ashley Robinson","Phoenix Mercury",23.0,658,324,-0.1,-0.2,-0.1,1,0,"Under 25","Center","Early (1998-2008)",37,35,NULL,NULL
+2006,"Chicago Sky",10,"Chelsea Newton","Sacramento Monarchs",23.0,715,648,1.8,0.3,-1.5,1,0,"Under 25","Guard","Early (1998-2008)",62,8,NULL,NULL
+2006,"Chicago Sky",11,"Bernadette Ngoyisa","San Antonio Silver Stars",23.0,251,626,0.5,1.1,0.6,1,1,"Under 25","Center","Early (1998-2008)",20,52,NULL,NULL
+2006,"Chicago Sky",12,"Francesca Zara","Seattle Storm",29.0,413,NULL,0.1,NULL,NULL,0,NULL,"25-29","Guard","Early (1998-2008)",72,72,NULL,NULL
+2006,"Chicago Sky",13,"Stacey Dales","Washington Mystics",26.0,NULL,453,NULL,-0.2,NULL,1,NULL,"25-29","Forward","Early (1998-2008)",72,72,NULL,NULL
+2008,"Atlanta Dream",1,"Carla Thomas","Chicago Sky",22.0,122,NULL,0.3,NULL,NULL,0,NULL,"Under 25","Forward","Early (1998-2008)",72,72,NULL,NULL
+2008,"Atlanta Dream",2,"Erika de Souza","Connecticut Sun",26.0,391,277,0.8,1,0.2,1,1,"25-29","Forward","Early (1998-2008)",26,43,NULL,NULL
+2008,"Atlanta Dream",3,"Katie Mattera","Detroit Shock",25.0,447,462,2,0.8,-1.2,1,0,"25-29","Center","Early (1998-2008)",57,14,0.9,"Up year"
+2008,"Atlanta Dream",4,"Roneeka Hodges","Houston Comets",25.0,331,274,0.2,1,0.8,1,1,"25-29","Guard","Early (1998-2008)",13,55,1.7,"Down year"
+2008,"Atlanta Dream",5,"Ann Strother","Indiana Fever",24.0,69,160,0.2,0.2,0.0,1,0,"Under 25","Guard","Early (1998-2008)",34,36,0.2,"Steady"
+2008,"Atlanta Dream",6,"LaToya Thomas","Los Angeles Sparks",26.0,487,187,1.2,-0.3,-1.5,1,0,"25-29","Forward","Early (1998-2008)",62,8,1.1,"Steady"
+2008,"Atlanta Dream",7,"Kristen Mann","Minnesota Lynx",24.0,882,254,1.6,-0.1,-1.7,1,0,"Under 25","Forward","Early (1998-2008)",67,3,0.7,"Up year"
+2008,"Atlanta Dream",8,"Ann Wauters","New York Liberty",27.0,NULL,980,NULL,4.8,NULL,1,NULL,"25-29","Center","Early (1998-2008)",72,72,NULL,NULL
+2008,"Atlanta Dream",9,"Jennifer Lacy","Phoenix Mercury",25.0,94,605,0,-0.3,-0.3,1,0,"25-29","Forward","Early (1998-2008)",41,30,0.3,"Steady"
+2008,"Atlanta Dream",10,"Kristin Haynie","Sacramento Monarchs",24.0,545,486,-0.4,-0.3,0.1,1,1,"Under 25","Guard","Early (1998-2008)",30,39,0.8,"Down year"
+2008,"Atlanta Dream",11,"Chantelle Anderson","San Antonio Silver Stars",27.0,86,NULL,0.3,NULL,NULL,0,NULL,"25-29","Center","Early (1998-2008)",72,72,1.1,NULL
+2008,"Atlanta Dream",12,"Betty Lennox","Seattle Storm",31.0,937,1010,3.3,1.6,-1.7,1,0,"30+","Guard","Early (1998-2008)",67,3,1.9,"Up year"
+2008,"Atlanta Dream",13,"Yelena Leuchanka","Washington Mystics",25.0,29,NULL,-0.1,NULL,NULL,0,NULL,"25-29","Center","Early (1998-2008)",72,72,0.1,NULL
+2025,"Golden State Valkyries",1,"Iliana Rupert","Atlanta Dream",23.0,NULL,486,NULL,1.9,NULL,1,NULL,"Under 25","Center","Modern (2025-26)",72,72,NULL,NULL
+2025,"Golden State Valkyries",2,"María Conde","Chicago Sky",28.0,NULL,NULL,NULL,NULL,NULL,0,NULL,"25-29","Unknown","Modern (2025-26)",72,72,NULL,NULL
+2025,"Golden State Valkyries",3,"Veronica Burton","Connecticut Sun",24.0,393,1292,1.7,6.4,4.7,1,1,"Under 25","Guard","Modern (2025-26)",1,71,NULL,NULL
+2025,"Golden State Valkyries",4,"Carla Leite","Dallas Wings",21.0,NULL,637,NULL,0.8,NULL,1,NULL,"Under 25","Guard","Modern (2025-26)",72,72,NULL,NULL
+2025,"Golden State Valkyries",5,"Temi Fagbenle","Indiana Fever",32.0,415,925,0.7,2.4,1.7,1,1,"30+","Center","Modern (2025-26)",7,64,NULL,NULL
+2025,"Golden State Valkyries",6,"Kate Martin","Las Vegas Aces",24.0,392,687,0.2,0.6,0.4,1,1,"Under 25","Guard","Modern (2025-26)",21,49,NULL,NULL
+2025,"Golden State Valkyries",7,"Stephanie Talbot","Los Angeles Sparks",30.0,600,541,0.4,0.7,0.3,1,1,"30+","Forward","Modern (2025-26)",24,47,NULL,NULL
+2025,"Golden State Valkyries",8,"Cecilia Zandalasini","Minnesota Lynx",29.0,487,450,1.2,1.6,0.4,1,1,"25-29","Forward","Modern (2025-26)",21,49,NULL,NULL
+2025,"Golden State Valkyries",9,"Kayla Thornton","New York Liberty",32.0,809,662,2,1.7,-0.3,1,0,"30+","Forward","Modern (2025-26)",41,30,NULL,NULL
+2025,"Golden State Valkyries",10,"Monique Billings","Phoenix Mercury",29.0,843,474,0.5,1.7,1.2,1,1,"25-29","Forward","Modern (2025-26)",11,61,NULL,NULL
+2025,"Golden State Valkyries",12,"Julie Vanloo","Washington Mystics",32.0,926,449,-0.9,-0.9,0.0,1,0,"30+","Guard","Modern (2025-26)",34,36,NULL,NULL
+2026,"Portland Fire",1,"Bridget Carleton","Minnesota Lynx",28.0,1227,1235,3.4,2.8,-0.6,1,0,"25-29","Forward","Modern (2025-26)",46,24,4.5,"Down year"
+2026,"Toronto Tempo",2,"Julie Allemand","Los Angeles Sparks",29.0,963,933,1.5,1.6,0.1,1,1,"25-29","Guard","Modern (2025-26)",30,39,NULL,NULL
+2026,"Portland Fire",3,"Carla Leite","Golden State Valkyries",22.0,637,1014,0.8,3,2.2,1,1,"Under 25","Guard","Modern (2025-26)",5,67,NULL,NULL
+2026,"Toronto Tempo",4,"Nyara Sabally","New York Liberty",26.0,305,573,0.8,1.5,0.7,1,1,"25-29","Forward","Modern (2025-26)",18,53,2.2,"Down year"
+2026,"Portland Fire",5,"Luisa Geiselsöder","Dallas Wings",26.0,628,348,0.8,-0.3,-1.1,1,0,"25-29","Center","Modern (2025-26)",55,16,NULL,NULL
+2026,"Toronto Tempo",6,"Marina Mabrey","Connecticut Sun",29.0,1103,944,-1.1,1.5,2.6,1,1,"25-29","Guard","Modern (2025-26)",3,69,2.7,"Down year"
+2026,"Portland Fire",7,"Emily Engstler","Washington Mystics",26.0,512,1085,1.1,2.2,1.1,1,1,"25-29","Forward","Modern (2025-26)",12,60,2.4,"Down year"
+2026,"Toronto Tempo",8,"Aaliyah Nye","Las Vegas Aces",23.0,671,57,0,0.1,0.1,1,1,"Under 25","Guard","Modern (2025-26)",30,39,NULL,NULL
+2026,"Portland Fire",9,"Maya Caldwell","Atlanta Dream",27.0,760,629,2.4,1.2,-1.2,1,0,"25-29","Guard","Modern (2025-26)",57,14,0.4,"Up year"
+2026,"Toronto Tempo",10,"Lexi Held","Phoenix Mercury",26.0,471,645,0.4,0.2,-0.2,1,0,"25-29","Guard","Modern (2025-26)",38,32,NULL,NULL
+2026,"Portland Fire",11,"Chloe Bibby","Indiana Fever",27.0,154,107,0.5,0,-0.5,1,0,"25-29","Forward","Modern (2025-26)",44,27,NULL,NULL
+2026,"Toronto Tempo",13,"María Conde","Golden State Valkyries",29.0,NULL,924,NULL,-0.6,NULL,1,NULL,"25-29","Forward","Modern (2025-26)",72,72,NULL,NULL
+2026,"Portland Fire",14,"Haley Jones","Dallas Wings",24.0,594,79,0,0.2,0.2,1,1,"Under 25","Forward","Modern (2025-26)",26,43,-0.6,"Up year"
+2026,"Toronto Tempo",15,"Maria Kliundikova","Minnesota Lynx",27.0,373,NULL,1.6,NULL,NULL,0,NULL,"25-29","Forward","Modern (2025-26)",72,72,NULL,NULL
+2026,"Portland Fire",16,"Nyadiew Puoch","Atlanta Dream",21.0,NULL,775,NULL,-0.3,NULL,1,NULL,"Under 25","Forward","Modern (2025-26)",72,72,NULL,NULL
+2026,"Toronto Tempo",17,"Adja Kane","New York Liberty",21.0,NULL,NULL,NULL,NULL,NULL,0,NULL,"Under 25","Unknown","Modern (2025-26)",72,72,NULL,NULL
+2026,"Portland Fire",18,"Sarah Ashlee Barker","Los Angeles Sparks",24.0,481,642,-0.8,0.9,1.7,1,1,"Under 25","Guard","Modern (2025-26)",7,64,NULL,NULL
+2026,"Toronto Tempo",19,"Nikolina Milic","Connecticut Sun",32.0,NULL,63,NULL,-0.1,NULL,1,NULL,"30+","Center","Modern (2025-26)",72,72,NULL,NULL
+2026,"Portland Fire",20,"Sug Sutton","Washington Mystics",27.0,1122,257,0.7,0.3,-0.4,1,0,"25-29","Guard","Modern (2025-26)",43,29,-0.6,"Up year"
+2026,"Toronto Tempo",21,"Kitija Laksa","Phoenix Mercury",29.0,626,40,0.6,-0.3,-0.9,1,0,"25-29","Guard","Modern (2025-26)",54,18,NULL,NULL
+2026,"Toronto Tempo",23,"Kristy Wallace","Indiana Fever",30.0,NULL,NULL,NULL,NULL,NULL,0,NULL,"30+","Unknown","Modern (2025-26)",72,72,0.5,NULL
+2026,"Portland Fire",24,"Nika Mühl","Seattle Storm",25.0,NULL,NULL,NULL,NULL,NULL,0,NULL,"25-29","Unknown","Modern (2025-26)",72,72,-0.2,NULL
