@@ -131,14 +131,14 @@ Players coming off a down year usually bounced back, but only partially: they st
 │   ├── expansion_picks.csv
 │   ├── player_totals.csv
 │   └── player_advanced.csv
+├── exports/
+│   └── tableau_data.csv
+├── images/
+│   └── dashboard.png
 ├── sql/
 │   ├── create_tables.sql
 │   ├── data_checks.sql
 │   ├── analysis_queries.sql
 │   └── export_for_tableau.sql
-├── exports/
-│   └── tableau_data.csv
-├── images/
-│   └── dashboard.png
 └── README.md
 ```
