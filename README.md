@@ -4,7 +4,7 @@
 
 🔗 **Interactive dashboard:** [[Tableau Public link here](https://public.tableau.com:9443/views/wnba_expansion/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
-![Dashboard preview](<img width="1501" height="1046" alt="dashboard" src="https://github.com/user-attachments/assets/672f97d4-c7cf-481e-a479-bd0af78f363e" />)
+![Dashboard preview](images/dashboard.png)
 
 ---
 
